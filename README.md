@@ -1,6 +1,6 @@
 # Advanced Data Analytics Course 
 
-In this repository, I include assignments and smaller projects I made for my Advanced Data Anlytics Course at Queen's University. Each assignment evalauates the design and implementation of complex analytic techniques such as predictive algorithms at scale, deep learning, clustering at scale, advance matrix decomposition, analytics in the web, collaborative filtering (social network analysis, social network analysis, and application in soecialized domains. 
+In this repository, I include assignments and smaller projects I made for my Advanced Data Anlytics Course at Queen's University. Each assignment evaluates the design and implementation of complex analytic techniques such as predictive algorithms at scale, deep learning, clustering at scale, advance matrix decomposition, analytics in the web, collaborative filtering (social network analysis, social network analysis, and application in soecialized domains. 
 
 Here I will give a brief overview of each excercise/assignment posted as a jupyter notebook file.
 
